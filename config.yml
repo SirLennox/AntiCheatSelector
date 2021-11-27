@@ -1,6 +1,6 @@
 anticheats:
   ncp:
-    name: NoCheatPlus
+    name: nocheatplus
     displayName: §cNoCheatPlus
     item: REDSTONE_BLOCK
     itemDamage: 0
