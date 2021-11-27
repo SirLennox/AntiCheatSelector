@@ -1,0 +1,9 @@
+anticheats:
+  ncp:
+    name: NoCheatPlus
+    displayName: §cNoCheatPlus
+    item: REDSTONE_BLOCK
+    itemDamage: 0
+    bypassPermissions:
+      - nocheatplus.bypass
+      - nocheatplus.bypass.*

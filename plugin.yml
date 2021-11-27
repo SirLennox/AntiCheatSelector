@@ -1,0 +1,45 @@
+name: AntiCheatSelector
+version: 1.0
+description: AntiCheat Selector Plugin
+authors:
+  - SirLennox
+main: me.sirlennox.anticheatselector.AntiCheatSelector
+
+commands:
+  crash:
+    description: Crash a player
+  demoscreen:
+      description: Send a demoscreen to a player
+  anticheat:
+    description: Select an anticheat
+    aliases:
+      - ac
+  sethealth:
+    description: Set your health
+    aliases:
+      - health
+  sethunger:
+    description: Set your hunger
+    aliases:
+      - hunger
+      - food
+      - feed
+      - setfood
+      - setfoodlevel
+      - foodlevel
+      - sethunger
+      - setfeed
+      - setfeedlevel
+  config:
+    description: Configure your settings
+    aliases:
+      - cfg
+      - cfgs
+      - configs
+      - conf
+      - setting
+      - settings
+      - sttgs
+      - sttg
+  crashkick:
+    description: CrashKick a player
