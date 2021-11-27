@@ -33,6 +33,10 @@ The permission for each anticheat is:
 
 `anticheatselector.anticheat.<AntiCheatName>`
 
+For example:
+
+`anticheatselector.anticheat.nocheatplus`
+
 #### Note
 
 The AntiCheat Name is the name of the anticheat you defined in the `config.yml`.
